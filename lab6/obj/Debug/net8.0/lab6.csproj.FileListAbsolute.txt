@@ -1,0 +1,14 @@
+D:\Мои работы\Программы\ООП С#\lab6\bin\Debug\net8.0\lab6.exe
+D:\Мои работы\Программы\ООП С#\lab6\bin\Debug\net8.0\lab6.deps.json
+D:\Мои работы\Программы\ООП С#\lab6\bin\Debug\net8.0\lab6.runtimeconfig.json
+D:\Мои работы\Программы\ООП С#\lab6\bin\Debug\net8.0\lab6.dll
+D:\Мои работы\Программы\ООП С#\lab6\bin\Debug\net8.0\lab6.pdb
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\lab6.AssemblyInfoInputs.cache
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\lab6.AssemblyInfo.cs
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\lab6.csproj.CoreCompileInputs.cache
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\lab6.dll
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\refint\lab6.dll
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\lab6.pdb
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
+D:\Мои работы\Программы\ООП С#\lab6\obj\Debug\net8.0\ref\lab6.dll

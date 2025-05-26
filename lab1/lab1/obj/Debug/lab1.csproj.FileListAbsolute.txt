@@ -1,0 +1,8 @@
+D:\Мои работы\Программы\ООП С#\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Мои работы\Программы\ООП С#\lab1\lab1\bin\Debug\lab1.exe
+D:\Мои работы\Программы\ООП С#\lab1\lab1\bin\Debug\lab1.pdb
+D:\Мои работы\Программы\ООП С#\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\Мои работы\Программы\ООП С#\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Мои работы\Программы\ООП С#\lab1\lab1\obj\Debug\lab1.exe
+D:\Мои работы\Программы\ООП С#\lab1\lab1\obj\Debug\lab1.pdb
+D:\Мои работы\Программы\ООП С#\lab1\lab1\obj\Debug\lab1.exe.config
